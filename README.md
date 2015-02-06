@@ -1,12 +1,12 @@
 # Guess the number
 
-      The Goal this project uses the random module in Python. The program will first randomly 
+      The goal in this project is to uses the random module in Python. The program will first randomly 
       generate a number unknown to the user. The user needs to guess what that number is. 
       (In other words, the user needs to be able to input information.) If the user’s guess 
-      is wrong, the program should return some sort of indication as to how wrong (e.g. The 
-      number is too high or too low). If the user guesses correctly, a positive indication should
+      is wrong, the program should return some sort of indication on how wrong (e.g. The 
+      number is too high or too low). If the user’s guess correctly, a positive indication should
       appear. You’ll need functions to check if the user input is an actual number, to see the 
-      difference between the inputted number and the randomly generated numbers, and to then compare 
+      difference between the inputted number and the randomly generated number, and then compare 
       the numbers. The program must be able to handle an error if the input is not an integer 
       (e.g. a letter).
 
