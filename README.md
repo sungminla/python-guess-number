@@ -24,7 +24,7 @@
 ## I/O
 
 ### Input Values
-      1. Should accept: ints and floats
+      1. Should accept: ints.
       2. Should not accept: string, other types of values.
 
 ### Output messages
